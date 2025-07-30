@@ -49,7 +49,8 @@ As a Break Through Tech AI Fellow, I've completed ML Foundations training and pa
 ## 🚀 Projects
 - **Churn Classifier** *(See above)*  
   Logistic regression pipeline for churn prediction using L2 regularization.
-
+- **SafePath (HackPrinceton)** *(See above)*  
+  Real-time safety app for elderly individuals using facial recognition and geofencing.
 > Stay tuned — more projects coming soon!
 
 ---
