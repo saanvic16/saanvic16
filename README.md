@@ -20,7 +20,24 @@ Built a logistic regression model to predict customer churn using a telecommunic
 🧠 *Next step:* Explore ensemble methods and compare performance to baseline logistic regression.
 
 ---
+---
 
+## 🌟 Hackathon Highlight: SafePath (HackPrinceton)  
+[🔗 SafePath](https://github.com/saanvic16/HackPrinceton)
+
+**SafePath** is an intelligent safety and assistance system for elderly individuals with cognitive decline.
+
+**Tools:** `React Native`, `Firebase`, `Google Maps API`, `Gemini API`, `Auth0`  
+**What I Did:**
+- Built an app with facial recognition to help patients identify people around them.
+- Implemented geofencing alerts using live location data to notify caretakers when a patient leaves a safe zone.
+- Enabled account setup and image uploads by caretakers, and integrated real-time SMS alerts for emergencies.
+- Integrated Gemini AI for natural chatbot interaction tailored to the elderly experience.
+
+🔍 *Challenges:* Optimizing facial recognition under different lighting, integrating APIs smoothly, and ensuring real-time geolocation updates.  
+💡 *Next step:* Expand features to include wearables and health monitoring for vitals.
+
+---
 ## 🧠 Break Through Tech Experience  
 As a Break Through Tech AI Fellow, I've completed ML Foundations training and participated in hands-on studio projects that strengthened my abilities in:
 - **Data preparation** and **model development**
