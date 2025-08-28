@@ -29,7 +29,7 @@ I'm a Computer Science student at NJIT’s Albert Dorman Honors College, with a 
 
 - **Break Through Tech AI Fellow:** Completed ML Foundations training and hands-on studio projects.
 - **Undergraduate Research:** Applied AI/ML to problems in educational technology and data visualization.
-- **Hackathons:** Winner at HackPrinceton with the SafePath intelligent safety system.
+- **Hackathons:** Participated at HackPrinceton with the SafePath intelligent safety system.
 
 ---
 
